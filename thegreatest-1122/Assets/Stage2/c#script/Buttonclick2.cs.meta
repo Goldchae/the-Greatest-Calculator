@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 9fe5d4084aecfdd449c3bc8a4d8a843e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - btn1: {instanceID: 0}
+  - btn2: {instanceID: 0}
+  - btn3: {instanceID: 0}
+  - btn4: {instanceID: 0}
+  - btn5: {instanceID: 0}
+  - btn6: {instanceID: 0}
+  - btn7: {instanceID: 0}
+  - btn8: {instanceID: 0}
+  - btn9: {instanceID: 0}
+  - btn0: {instanceID: 0}
+  - punch: {fileID: 6342452521533751519, guid: 90d1c2b023db24a48b451ef3818bf248, type: 3}
+  - num1: {instanceID: 0}
+  - num2: {instanceID: 0}
+  - num3: {instanceID: 0}
+  - num4: {instanceID: 0}
+  - num5: {instanceID: 0}
+  - num6: {instanceID: 0}
+  - num7: {instanceID: 0}
+  - num8: {instanceID: 0}
+  - num9: {instanceID: 0}
+  - num0: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
